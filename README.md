@@ -1,0 +1,1 @@
+GoodNewsPortal is experimental web app project which I'm gonna write a by myself using Django. 
