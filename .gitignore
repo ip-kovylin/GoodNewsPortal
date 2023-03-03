@@ -9,4 +9,5 @@ __pycache__/
 venv/
 ENV/
 
-.idea
+.idea!/GoodNewsPortal/static/# custom css/
+!/GoodNewsPortal/static/# Go_Easy_On/
